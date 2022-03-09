@@ -1,5 +1,5 @@
 {
     "user": "******",
     "password": "*******",
-    "driver_path": "path/to/chromedriver.exe",
+    "driver_path": "path/to/chromedriver.exe"
 }
