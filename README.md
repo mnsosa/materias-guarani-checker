@@ -26,3 +26,4 @@ comenzará a sonar el audio de "alarma.mp3", como si fuera una alarma de Chernob
 
 
 
+Queda por hacer una mejor portabilidad del programa. Estoy consciente de que para hacerlo andar en otra computadora habrá que meterle pila, y no está tan servido como debería. El próximo paso, cuando tenga tiempo, será el de dockerizar y dejar de forma prolija este programa.
